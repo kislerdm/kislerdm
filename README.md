@@ -16,10 +16,10 @@ I'm good at
 
 ## Get in touch
 
-<a href="https://www.dkisler.com" target="blank"><img align="left" src="https://www.flaticon.com/svg/static/icons/svg/1946/1946488.svg" alt="dkisler_webpage" width="22px"/></a>
-<a href="https://linkedin.com/in/dkisler" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dkisler_li" width="22px"/></a>
-<a href="mailto:admin@dkisler.com?subject=get%20in%20touch%20from%20github.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="dkisler_email" width="22px"/></a>
-<a href="https://t.me/dkisler" target="blank"><img align="left" alt="dkisler_telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+<a href="https://www.dkisler.com" target="_blank" rel="noreferrer noopener"><img align="left" src="https://www.flaticon.com/svg/static/icons/svg/1946/1946488.svg" alt="dkisler_webpage" width="22px"/></a>
+<a href="https://linkedin.com/in/dkisler" target="_blank" rel="noreferrer noopener"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dkisler_li" width="22px"/></a>
+<a href="mailto:admin@dkisler.com?subject=get%20in%20touch%20from%20github.com" target="_blank" rel="noreferrer noopener"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="dkisler_email" width="22px"/></a>
+<a href="https://t.me/dkisler" target="_blank" rel="noreferrer noopener"><img align="left" alt="dkisler_telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
 <br/>
 
 
