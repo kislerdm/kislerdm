@@ -36,11 +36,13 @@ I am an experienced engineering leader focused on empowering people to deliver t
 - Go
 - Python
 - TypeScript, JavaScript
+- Kotlin
 - Postgres
 - Kafka
 - Docker
 - K8S
 - AWS, GCP
+- Apache Flink
 - Snowflake, Redshift
 
 ## Get in touch
