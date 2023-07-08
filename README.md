@@ -23,11 +23,25 @@ I am an experienced engineering leader focused on empowering people to deliver t
 
 ## I follow
 
+- [Continues delivery](https://agilemanifesto.org/)
 - [TDD](https://www.amazon.com/Kent-Beck/dp/0321146530)
 - [RDD](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+- [DDD](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
 - [XP](http://www.extremeprogramming.org/)
 - [Lean](https://kanbanize.com/lean-management/what-is-lean-management)
 - [CAMS](https://medium.com/@seanguthrie/devops-principles-the-cams-model-9687591ca37a)
+
+## I use
+
+- Go
+- Python
+- TypeScript, JavaScript
+- Postgres
+- Kafka
+- Docker
+- K8S
+- AWS, GCP
+- Snowflake, Redshift
 
 ## Get in touch
 
