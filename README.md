@@ -15,7 +15,7 @@ I am an experienced engineering leader focused on empowering people to deliver t
 
 - learning and spotting patterns
 - [making simple easy](https://www.youtube.com/watch?v=SxdOUGdseq4)
-- delivering tengible result
+- delivering tangible result
 - navigating through uncertainty and combating [Parkinson's law](https://www.atlassian.com/blog/productivity/what-is-parkinsons-law)
 - enabling others to focuse on what’s important for customers
 - challenging status quo
