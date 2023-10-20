@@ -11,6 +11,11 @@ I am an experienced engineering leader focused on empowering people to deliver t
 - simplicity
 - clarity
 
+## I am motivated by
+
+- Impact
+- Growth
+
 ## I am good at
 
 - learning and spotting patterns
@@ -44,6 +49,17 @@ I am an experienced engineering leader focused on empowering people to deliver t
 - AWS, GCP
 - Apache Flink
 - Snowflake, Redshift
+
+## My recent contributions
+
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=13434797&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=13434797&activity_type=all&image_size=auto&color_scheme=dark" width="1000" height="auto">
+    <img alt="Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=13434797&activity_type=all&image_size=auto&color_scheme=light" width="1000" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ## Get in touch
 
