@@ -8,7 +8,7 @@ I am an experienced engineering leader focused on empowering people to deliver t
 
 ## Support
 
-Please consider sponsoring me to support the maintenance of the following projects:
+Please consider [sponsoring](https://github.com/sponsors/kislerdm) me to support the maintenance of the following projects:
 - [terraform-neon-provider](https://github.com/kislerdm/terraform-provider-neon)
 - [neon-sdk-go](https://github.com/kislerdm/neon-sdk-go)
 
