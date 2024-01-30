@@ -6,6 +6,12 @@ Hey! My name is <em><strong>Dmitry</strong></em>. It is pronounced as "D-{{null_
 
 I am an experienced engineering leader focused on empowering people to deliver top-quality results for customers.
 
+## Support
+
+Please consider sponsoring me to support the maintenance of the following projects:
+- [terraform-neon-provider](https://github.com/kislerdm/terraform-provider-neon)
+- [neon-sdk-go](https://github.com/kislerdm/neon-sdk-go)
+
 ## I value the most
 
 - simplicity
