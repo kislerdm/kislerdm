@@ -39,7 +39,7 @@ Please consider sponsoring me to support the maintenance of the following projec
 - [RDD](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 - [DDD](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
 - [XP](http://www.extremeprogramming.org/)
-- [Lean](https://kanbanize.com/lean-management/what-is-lean-management)
+- [Lean](https://businessmap.io/lean-management/what-is-lean-management)
 - [CAMS](https://medium.com/@seanguthrie/devops-principles-the-cams-model-9687591ca37a)
 
 ## I use
